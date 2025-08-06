@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-alkdnasjdhasoi
+title: Welcome to my blog alkdnasjdhasoi
 ---
 
